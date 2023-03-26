@@ -1,0 +1,15 @@
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).csproj.AssemblyReference.cache
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).GeneratedMSBuildEditorConfig.editorconfig
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).AssemblyInfoInputs.cache
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).AssemblyInfo.cs
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).csproj.CoreCompileInputs.cache
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\bin\Debug\net7.0\HW_seminar_8(62).exe
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\bin\Debug\net7.0\HW_seminar_8(62).deps.json
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\bin\Debug\net7.0\HW_seminar_8(62).runtimeconfig.json
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\bin\Debug\net7.0\HW_seminar_8(62).dll
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\bin\Debug\net7.0\HW_seminar_8(62).pdb
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).dll
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\refint\HW_seminar_8(62).dll
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).pdb
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\HW_seminar_8(62).genruntimeconfig.cache
+C:\git\HomeworkC#\HW_seminar_8\HW_seminar_8(62)\obj\Debug\net7.0\ref\HW_seminar_8(62).dll
